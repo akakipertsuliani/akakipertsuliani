@@ -55,4 +55,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akakipertsuliani&show_icons=true&locale=en&layout=compact" alt="akakipertsuliani" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akakipertsuliani&show_icons=true&locale=en&layout=compact&theme=tokyonight " alt="akakipertsuliani" /></p>
