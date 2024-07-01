@@ -1,11 +1,10 @@
-<div align="left">
+<div align="left" style="width: 100%;">
   <img src="https://i.redd.it/n8agw6z2smyb1.gif" alt="gif" style="width: 100%; max-width: 600px; border-radius: 10px;"/>
 
   <h1 style="margin: 20px 0;">Hi 👋, I'm Akaki</h1>
   <h3 style="color: #555;">A passionate frontend developer from Georgia</h3>
 
  <p>🌱 I’m currently learning <strong style="background: linear-gradient(to right, #FF0080, #7928CA); -webkit-background-clip: text; color: transparent;">Angular</strong></p>
-
 
   <p>💬 Ask me about <strong style="color: #1e90ff;">Advanced technology trends and innovations.</strong></p>
 <p>📫 How to reach me <strong style="color: #008000;">akaki@kopitnari.net</strong></p>
@@ -16,7 +15,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akaki ferculiani" height="30" width="40" />
   </a>
   
-  <table style="margin: 40px auto; border-collapse: collapse; width: 80%;">
+  <table style="margin: 40px auto; border-collapse: collapse; width: 100%;">
     <tr>
       <th colspan="2"><h3>2D Design</h3></th>
     </tr>
