@@ -17,7 +17,7 @@
   
   <table style="margin: 40px auto; border-collapse: collapse; width: 100%;">
     <tr>
-      <th colspan="2"><h3>2D Design</h3></th>
+      <th rowspan="1" colspan="2"><h3>2D Design</h3></th>
     </tr>
     <tr>
       <td align="center">
@@ -28,7 +28,7 @@
       </td>
     </tr>
     <tr>
-      <th colspan="2"><h3>3D Design</h3></th>
+      <th rowspan="2" colspan="2"><h3>3D Design</h3></th>
     </tr>
     <tr>
       <td colspan="2" align="center">
