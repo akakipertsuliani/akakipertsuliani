@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img src="https://i.redd.it/n8agw6z2smyb1.gif" alt="gif" style="width: 100%; max-width: 600px; border-radius: 10px;"/>
 
   <h1 style="margin: 20px 0;">Hi 👋, I'm Akaki</h1>
