@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://fb.com/akaki.ferculiani.12" style="margin-bottom: 10px" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akaki ferculiani" height="30" width="40" /></a>
 
-<table width="1024px">
+<table><tr>
     <td valign="top" width="25%">
         <h3 align="center">Front-End</h3>
         <hr>
