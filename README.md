@@ -16,9 +16,9 @@
 
 <hr>
 
-<div align="center">
-    <table> 
-        <td valign="top" width="100%">
+<div align="center" style="width: 100%">
+    <table style="width: 100%"> 
+        <td valign="top" width="50%">
             <h3 align="center">Front-End</h3>
             <hr>
             <div align="center">
@@ -47,7 +47,7 @@
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
             </div>
         </td>
-        <td valign="top" width="100%">
+        <td valign="top" width="10%">
             <h3 align="center">Design/Modeling</h3>
             <hr>
             <div align="center">
