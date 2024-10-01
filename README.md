@@ -19,7 +19,7 @@
 <div align="center">
     <table> 
         <td valign="top" width="25%">
-            <h3 align="center">Front-End</h3>
+            <h3 align="center">          Front-End          </h3>
             <hr>
             <div align="center">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
