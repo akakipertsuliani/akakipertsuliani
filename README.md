@@ -12,9 +12,11 @@
 -   ⚡ Fun fact **I can Center Div**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://fb.com/akaki.ferculiani.12" style="margin-bottom: 10px" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akaki ferculiani" height="30" width="40" /></a>
+<a href="https://fb.com/akaki.ferculiani.12" style="margin: 10px" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akaki ferculiani" height="30" width="40" /></a>
 
-<table><tr>
+<hr>
+
+<table width=1024> 
     <td valign="top" width="25%">
         <h3 align="center">Front-End</h3>
         <hr>
