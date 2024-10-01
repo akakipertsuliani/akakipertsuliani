@@ -18,7 +18,7 @@
 
 <div align="center">
     <table> 
-        <td valign="top" width="50%">
+        <td valign="top">
             <h3 align="center">Front-End</h3>
             <hr>
             <div align="center">
@@ -34,7 +34,7 @@
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
             </div>
         </td>
-        <td valign="top" width="100%">
+        <td valign="top">
             <h3 align="center">Back-End</h3>
             <hr>
             <div align="center">
@@ -44,7 +44,7 @@
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
             </div>
         </td>
-        <td valign="top" width="10%">
+        <td valign="top">
             <h3 align="center">Design/Modeling</h3>
             <hr>
             <div align="center">
@@ -54,7 +54,7 @@
                 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
             </div>
         </td>
-        <td valign="top" width="100%">
+        <td valign="top">
             <h3 align="center">DevOps</h3>
             <hr>
             <div align="center">
