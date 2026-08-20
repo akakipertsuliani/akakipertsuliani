@@ -12,7 +12,7 @@
 
 💬 Ask me about **Front-End Development and tech**
 
-📫 Reach me at **[akaki@kopitnari.net]**.
+📫 Reach me at **akaki@kopitnari.net**.
 
 ⚡ Fun fact: **I can center a div 😎**
 
@@ -84,14 +84,14 @@
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=akakipertsuliani&show_icons=true&theme=tokyonight&hide_border=true"
+  src="https://github-stats-extended.vercel.app/api?username=akakipertsuliani&show_icons=true&theme=tokyonight&hide_border=true"
   alt="GitHub Stats"
 />
 
 <br/><br/>
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=akakipertsuliani&layout=compact&theme=tokyonight&hide_border=true"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=akakipertsuliani&layout=compact&theme=tokyonight&hide_border=true"
   alt="Top Languages"
 />
 
